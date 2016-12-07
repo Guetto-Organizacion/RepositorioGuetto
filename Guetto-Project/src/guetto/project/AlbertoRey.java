@@ -7,7 +7,7 @@ package guetto.project;
 
 /**
  *
- * @author DAM1
+ * @author Alberto Rey Moreno
  */
 public class AlbertoRey {
 
