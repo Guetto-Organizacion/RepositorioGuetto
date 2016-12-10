@@ -25,5 +25,6 @@ public class AndresMoreno {
         System.out.println("La segunda cifra es: " + centenas);
         System.out.println("La tercera cifra es: " + decenas);
         System.out.println("La cuarta cifra es: " + unidades);
+        System.out.println("Modifico el ejercicio de Andres. Manuel");
     }
 }
