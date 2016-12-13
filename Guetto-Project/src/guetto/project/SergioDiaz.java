@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class SergioDiaz {
     public static void main (String[] args){
         Scanner entrada = new Scanner(System.in);
+        
         String letra;
         System.out.println("Mete una letra y te la paso a mayusculas");
         letra = entrada.nextLine().toUpperCase();
